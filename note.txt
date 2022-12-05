@@ -1,0 +1,3 @@
+pass : CMFRZ4ucFDdcUK21gj5GKTlaZ6Mo_uuH
+user: bgqziebk
+server: peanut.db.elephantsql.com (peanut-01)
